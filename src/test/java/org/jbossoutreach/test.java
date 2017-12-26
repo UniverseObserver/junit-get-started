@@ -2,7 +2,7 @@ package org.jbossoutreach;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Test {
+public class test {
 
 	private int val = 22;
 	private int vbl = 33;
